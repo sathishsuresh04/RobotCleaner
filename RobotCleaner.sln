@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cint.RobotCleaner.Client", "src\Cint.RobotCleaner.Client\Cint.RobotCleaner.Client.csproj", "{8976E17B-3444-4935-8ED1-859073B788DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotCleaner.Client", "src\RobotCleaner.Client\RobotCleaner.Client.csproj", "{8976E17B-3444-4935-8ED1-859073B788DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{616E9574-0028-42E5-8F47-4776A72C695F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A6FDF316-0420-4C6C-BB6B-601E942816A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Application", "src\Cint.RobotCleaner.Application\Cint.RobotCleaner.Application.csproj", "{2075A8F6-083B-4B15-A680-B549EEDB3EE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotCleaner.Application", "src\RobotCleaner.Application\RobotCleaner.Application.csproj", "{2075A8F6-083B-4B15-A680-B549EEDB3EE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Client.Tests", "tests\Cint.RobotCleaner.Client.Tests\Cint.RobotCleaner.Client.Tests.csproj", "{F6C33548-7FC0-4F92-B6AE-52D5A8A70055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotCleaner.Client.Tests", "tests\RobotCleaner.Client.Tests\RobotCleaner.Client.Tests.csproj", "{F6C33548-7FC0-4F92-B6AE-52D5A8A70055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cint.RobotCleaner.Application.Tests", "tests\Cint.RobotCleaner.Application.Tests\Cint.RobotCleaner.Application.Tests.csproj", "{2F9E4EAA-CEA6-4400-9FC9-9281D4828A2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotCleaner.Application.Tests", "tests\RobotCleaner.Application.Tests\RobotCleaner.Application.Tests.csproj", "{2F9E4EAA-CEA6-4400-9FC9-9281D4828A2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
